@@ -1,0 +1,20 @@
+# VSCode uporabniške nastavitve
+.vscode/
+
+# LaTeX
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.toc
+*.fls
+*.log
+*.out
+*.pdf
+*.pyc
+*.synctex.gz
+*.jpg
+*.bib
+# Windows
+thumbs.db
+
